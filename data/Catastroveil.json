@@ -1,12 +1,14 @@
 {
     "id": 147,
     "name": "Catastroveil",
-    "author": "Noyan",
     "creators": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://youtu.be/8Dqw9alVGDE",
+    "song": "Dimrain47 - At The Speed Of Light",
+    "songLink": "https://www.youtube.com/watch?v=1Zrq8FiKS6A",
     "percentToQualify": 100,
-    "password": "Copyable",
+    "difficulty": 0,
+    "enjoyment": 7,
     "records": [
         {
             "user": "Exence",
