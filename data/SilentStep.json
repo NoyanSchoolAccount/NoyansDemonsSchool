@@ -1,12 +1,14 @@
 {
     "id": 165,
     "name": "Silent Step",
-    "author": "Noyan",
     "creators": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://www.youtube.com/watch?v=7W6MPMzy_TI",
     "percentToQualify": 5,
-    "password": "Copyable",
+    "song": "Clubstep",
+    "songLink": "https://www.youtube.com/watch?v=vj8ZW0jr83I&pp=ygUIY2x1YnN0ZXDSBwkJsgkBhyohjO8%3D",
+    "difficulty": 2,
+    "enjoyment": 10,
     "records": [
         {
             "user": "Nobody",
