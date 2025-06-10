@@ -14,7 +14,9 @@
             "user": "Nobody",
             "link": "",
             "percent": 0,
-            "hz": 0
+            "hz": 0,
+            "mobile": false,
+            "enjoyment": 0
         }
     ]
 }
