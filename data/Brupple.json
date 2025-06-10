@@ -1,0 +1,24 @@
+{
+    "id": 108,
+    "name": "Brupple",
+    "author": "Noyan",
+    "creators": ["Noyan", "Exence"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=rslABbncwcc",
+    "percentToQualify": 15,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://youtu.be/SqE3zNeDY0I",
+            "percent": 81,
+            "hz": 60
+        },
+        {
+            "user": "Kageyama",
+            "link": "https://www.youtube.com/watch?v=GysppsheQ5s",
+            "percent": 18,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 142,
+    "name": "Brupple 2",
+    "author": "Noyan",
+    "creators": ["Noyan"],
+    "verifier": "Exence",
+    "verification": "https://www.youtube.com/embed/9jvjET2zPjQ",
+    "percentToQualify": 28,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Noyan",
+            "link": "https://youtu.be/2AHPyLllBJU",
+            "percent": 100,
+            "hz": "For Exence Record Go To 13:03"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 145,
+    "name": "Mini Madness",
+    "author": "Noyan",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/3_X1VsGr_HA",
+    "percentToQualify": 100,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://youtu.be/LytwX00LWaM",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

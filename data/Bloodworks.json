@@ -1,25 +1,18 @@
 {
     "id": 123,
     "name": "Bloodworks",
-    "creators": [
-        "Noyan"
-    ],
+    "author": "Noyan",
+    "creators": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://www.youtube.com/watch?v=T7yBDai_l2M&pp=ygUVbm95YW53YW50c3RvZ2FtZXRvZGF5",
-    "percentToQualify": 23,
-    "song": "Lost - Crimes (Slaughterhouse Remix)",
-    "songLink": "https://www.youtube.com/watch?v=uzCD3hdxYy0",
-    "difficulty": 2,
-    "enjoyment": 8,
+    "percentToQualify": 26,
     "password": "Copyable",
     "records": [
         {
-			"user": "Exence",
-			"link": "https://www.youtube.com/watch?v=pr_XVft9mHg",
-			"percent": 23,
-			"hz": 120,
-			"mobile": false,
-			"enjoyment": 0
+            "user": "Exence",
+            "link": "https://www.youtube.com/watch?v=pr_XVft9mHg",
+            "percent": 23,
+            "hz": "Go To 2:42"
         }
     ]
 }

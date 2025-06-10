@@ -1,0 +1,18 @@
+{
+    "id": 106,
+    "name": "BladLast",
+    "author": "Noyan",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=Vf5mWBEtB60",
+    "percentToQualify": 6,
+    "password": "Copyable",
+    "records": [
+        {
+            "user": "Exence",
+            "link": "https://youtu.be/QeepBNBnHZA",
+            "percent": 9,
+            "hz": 60
+        }
+    ]
+}
