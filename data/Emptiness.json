@@ -1,12 +1,14 @@
 {
     "id": 166,
     "name": "Emptiness",
-    "author": "Noyan",
     "creators": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://youtu.be/WAqjKzZY22A",
     "percentToQualify": 21,
-    "password": "Copyable",
+    "song": "Creo - Flow",
+    "songLink": "https://www.youtube.com/watch?v=MM87r7GjzW8&pp=ygUJY3JvZSBmbG93",
+    "difficulty": 2,
+    "enjoyment": 10,
     "records": [
         {
             "user": "Nobody",
