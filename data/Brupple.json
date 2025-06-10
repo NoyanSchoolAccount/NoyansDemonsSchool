@@ -1,12 +1,14 @@
 {
     "id": 108,
     "name": "Brupple",
-    "author": "Noyan",
     "creators": ["Noyan", "Exence"],
     "verifier": "Noyan",
     "verification": "https://www.youtube.com/watch?v=rslABbncwcc",
     "percentToQualify": 15,
-    "password": "Copyable",
+    "song": "ZUN - Bad Apple",
+    "songLink": "https://www.youtube.com/watch?v=9lNZ_Rnr7Jc",
+    "difficulty": 0,
+    "enjoyment": 6,
     "records": [
         {
             "user": "Exence",
