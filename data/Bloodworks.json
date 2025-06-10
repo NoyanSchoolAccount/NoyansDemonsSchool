@@ -1,18 +1,21 @@
 {
     "id": 123,
     "name": "Bloodworks",
-    "author": "Noyan",
     "creators": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://www.youtube.com/watch?v=T7yBDai_l2M&pp=ygUVbm95YW53YW50c3RvZ2FtZXRvZGF5",
     "percentToQualify": 26,
-    "password": "Copyable",
+    "song": "Slaughterhouse",
+    "songLink": "https://www.youtube.com/watch?v=TlZBH4eGz6M",
+    "difficulty": 2,
+    "enjoyment": 10,
     "records": [
         {
             "user": "Exence",
             "link": "https://www.youtube.com/watch?v=pr_XVft9mHg",
             "percent": 23,
             "hz": "Go To 2:42"
+            "mobile": false
         }
     ]
 }
