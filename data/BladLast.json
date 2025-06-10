@@ -1,12 +1,15 @@
 {
     "id": 106,
     "name": "BladLast",
-    "author": "Noyan",
     "creators": ["Noyan"],
     "verifier": "Noyan",
     "verification": "https://www.youtube.com/watch?v=Vf5mWBEtB60",
+    "showcase": "https://www.youtube.com/watch?v=jmGZcvjzI4c",
     "percentToQualify": 6,
-    "password": "Copyable",
+    "song": "Dimrain47 - At The Speed Of Light",
+    "songLink": "https://www.youtube.com/watch?v=1Zrq8FiKS6A",
+    "difficulty": 2,
+    "enjoyment": 10,
     "records": [
         {
             "user": "Exence",
