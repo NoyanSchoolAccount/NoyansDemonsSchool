@@ -67,37 +67,37 @@ export function score(rank, difficulty, percent, minPercent, list) {
             case 0: // If the value of difficulty is 0, do the following:
 
                 /* Beginner Tier */
-                minScore = 3;
-                maxScore = 7;
+                minScore = 5;
+                maxScore = 10;
                 break; // Leave the switch statement without checking any other cases.
             case 1: // If the value of difficulty is 1, do the following:
 
                 /* Easy Tier */
-                minScore = 7.1;
-                maxScore = 13;
+                minScore = 20;
+                maxScore = 30;
                 break;
             case 2: // etc.
 
                 /* Medium Tier */
-                minScore = 13.1;
-                maxScore = 37;
+                minScore = 40;
+                maxScore = 50;
                 break;
             case 3:
 
                 /* Hard Tier */
-                minScore = 37.1;
-                maxScore = 63;
+                minScore = 60;
+                maxScore = 70;
                 break;
             case 4:
 
                 /* Insane Tier */
-                minScore = 63.1;
-                maxScore = 87;
+                minScore = 80;
+                maxScore = 90;
                 break;
             case 5:
 
                 /* Mythical Tier */
-                minScore = 87.1;
+                minScore = 100;
                 maxScore = scoreDivider;
                 break;
             default: // If none of the other cases are met, resort to this:
@@ -134,7 +134,7 @@ export function score(rank, difficulty, percent, minPercent, list) {
     
     // Set minPercent to 100 if the difficulty tier is hard tier or below
     if (difficulty < 4) {
-        minPercent = 100;
+        minPercent = 40;
     }
     
     // Multuplies the value of score by the factor of the difference between the value of
