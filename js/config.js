@@ -246,8 +246,28 @@ export function packScore(pack) {
                 break;
             case 7:
 
-                /* Legendary Packs */
+                /* Supreme Packs */
                 packscore = 200;
+                break;
+            case 8:
+                
+                /* Ethereal Packs */
+                packscore = 250;
+                break;
+            case 9:
+
+                /* Legendary Packs */
+                packscore = 300;
+                break;
+            case 10:
+
+                /* Silent */
+                packscore = 400;
+                break;
+            case 11:
+
+                /* Impossible Packs */
+                packscore = 1000;
                 break;
             default:
 
@@ -349,11 +369,43 @@ export function packColor(difficulty) {
             break;
         case 7:
 
-            /* Legendary Packs */
+            /* Supreme Packs */
             r = 200;
             g = 200;
             b = 200;
             a = 0.8;
+            break;
+        case 8:
+
+            /* Ethereal Packs */
+            r = 230;
+            g = 50;
+            b = 230;
+            a = 0.8;
+            break;
+        case 9:
+            
+            /* Legendary Packs */
+            r = 255;
+            g = 255;
+            b = 0
+            a = 0;
+            break;
+        case 10:
+
+            /* Silent Packs */
+            r = 0;
+            g = 0;
+            b = 0;
+            a = 0;
+            break;
+        case 11:
+
+            /* Impossible Packs */
+            r = 255;
+            g = 0;
+            b = 0;
+            a = 0;
             break;
         default:
 
