@@ -9,6 +9,17 @@
 		]
 	},
     {
+        "name": "Pointercrate Knock-Offs",
+        "difficulty": 9,
+        "levels": [
+            "Bloodworks",
+            "Emptiness",
+            "SilentStep",
+            "YesJokes",
+            "BladLast"
+        ]
+    },
+    {
         "name": "Short Levels",
         "difficulty": 4,
         "levels": [
