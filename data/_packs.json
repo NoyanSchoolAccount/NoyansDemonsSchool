@@ -10,7 +10,7 @@
 	},
     {
         "name": "Short Levels",
-        "difficulty": 3,
+        "difficulty": 4,
         "levels": [
             "MWspam",
             "MiniMadness",
