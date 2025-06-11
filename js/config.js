@@ -131,6 +131,7 @@ export function score(rank, difficulty, percent, minPercent, list) {
                 maxScore = 210;
                 break;
             case 11:
+                
                 /* Impossible Tier */
                 minScore = 220;
                 maxScore = scoreDivider;
