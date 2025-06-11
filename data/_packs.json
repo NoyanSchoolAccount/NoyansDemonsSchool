@@ -1,11 +1,22 @@
 [
 	{
 		"name": "Former Top 1's",
-		"difficulty": 3,
+		"difficulty": 6,
 		"levels": [
 			"SakupenPringles",
 			"StereoMADness",
 			"BladLast"
 		]
-	}
+	},
+    {
+        "name": "Short Levels",
+        "difficulty": 3,
+        "levels": [
+            "MWspam",
+            "MiniMadness",
+            "Catastroveil",
+            "Hell's Dance",
+            "Brupple 2"
+        ]
+    }
 ]
