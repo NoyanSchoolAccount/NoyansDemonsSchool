@@ -261,7 +261,7 @@ export function packScore(pack) {
                 break;
             case 10:
 
-                /* Silent */
+                /* Silent Packs */
                 packscore = 400;
                 break;
             case 11:
