@@ -3,7 +3,7 @@ export default {
         <h3>Difficulty Rankings</h3>
         <div class="right-text">
             <p>
-                Extreme Levels = 101 to 200 Points
+                Extreme Demons = 101 to 200 Points
             </p>
             <p>
                 Insane Demons = 41 to 70 Points
