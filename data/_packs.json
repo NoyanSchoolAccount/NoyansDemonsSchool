@@ -22,13 +22,14 @@
     },
     {
         "name": "Short Levels",
-        "difficulty": 4,
+        "difficulty": 5,
         "levels": [
             "MWspam",
             "MiniMadness",
             "Catastroveil",
             "HELLSDANCE",
-            "Brupple2"
+            "Brupple2",
+            "Endingver"
         ]
     }
 ]
