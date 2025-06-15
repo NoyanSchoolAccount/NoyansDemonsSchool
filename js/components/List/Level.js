@@ -41,7 +41,7 @@ export default {
             <h3>Difficulty: {{["Beginner", "Easy", "Medium", "Hard", "Insane", "Mythical", "Extreme", "Supreme", "Ethereal", "Legendary", "Silent", "Impossible"][level.difficulty]}} Demon</h3>
             <Verification :verification="level.verification" :showcase="level.showcase || null" />
             <LevelMeta :level="level" :list="list" />
-            <Records :records="level.records" :percentToQualify="(level.difficulty>3) ? level.percentToQualify : 100" />
+            <Records :records="level.records" :percentToQualify="(level.difficulty>0) ? level.percentToQualify : 100" />
         </div>
     `,
     methods: {
