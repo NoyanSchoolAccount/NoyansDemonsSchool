@@ -382,7 +382,7 @@ export function packColor(difficulty) {
             r = 230;
             g = 50;
             b = 230;
-            a = 0.8;
+            a = 1;
             break;
         case 9:
             
