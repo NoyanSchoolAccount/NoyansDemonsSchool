@@ -349,6 +349,7 @@ export function packColor(difficulty) {
             /* Insane Packs */
             r = 211;
             g = 99;
+            b = 0;
             a = 0.9;
             break;
         case 5:
@@ -389,7 +390,7 @@ export function packColor(difficulty) {
             r = 255;
             g = 255;
             b = 0
-            a = 0;
+            a = 0.8;
             break;
         case 10:
 
@@ -397,7 +398,7 @@ export function packColor(difficulty) {
             r = 0;
             g = 0;
             b = 0;
-            a = 0;
+            a = 0.8;
             break;
         case 11:
 
@@ -405,7 +406,7 @@ export function packColor(difficulty) {
             r = 255;
             g = 0;
             b = 0;
-            a = 0;
+            a = 0.8;
             break;
         default:
 
