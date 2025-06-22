@@ -1,0 +1,21 @@
+{
+    "id": 178,
+    "name": "Cosmos",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://www.youtube.com/watch?v=Vf5mWBEtB60",
+    "percentToQualify": 4,
+    "song": "ΔXIUS LIИK - Кøсмøс",
+    "songLink": "https://www.youtube.com/watch?v=mNzeRF5CtFo&pp=ygUMzpRYSVVTIExJ0JhL",
+    "difficulty": 4,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0,
+            "mobile": false
+        }
+    ]
+}
