@@ -66,7 +66,7 @@ export default {
                     <Copy v-if="!copied" @click="copyURL('https://noyansdemonslist.vercel.app/#/packs/pack/' + selectedPack.name.toLowerCase().replaceAll(' ', '_')); copied = true"></Copy>
                     <Copied v-if="copied" @click="copyURL('https://noyansdemonslist.vercel.app/#/packs/pack/' + selectedPack.name.toLowerCase().replaceAll(' ', '_')); copied = true"></Copied>
                 </div>
-                    <h2>Difficulty: {{ ["Beginner", "Easy", "Medium", "Hard", "Insane", "Mythical", "Extreme", "Legendary"][selectedPack.difficulty] }}</h2>
+                    <h2>Difficulty: {{ ["Beginner", "Easy", "Medium", "Hard", "Insane", "Mythical", "Extreme", "Supreme", "Ethereal", "Legendary", "Silent", "Impossible"][selectedPack.difficulty] }}</h2>
                     <div class="pack-score">
                         <h3>Points: {{ selectedPack.score }}</h3>
                     </div>
