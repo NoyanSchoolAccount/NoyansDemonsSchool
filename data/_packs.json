@@ -25,9 +25,10 @@
     },
     {
         "name": "Short Levels",
-        "difficulty": 5,
+        "difficulty": 6,
         "levels": [
             "MWspam",
+            "Brupple",
             "MiniMadness",
             "Catastroveil",
             "HELLSDANCE",
