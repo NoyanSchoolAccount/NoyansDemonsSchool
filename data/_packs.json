@@ -37,7 +37,7 @@
         ]
     },
     {
-        "name": "Mini Wave Only"
+        "name": "Mini Wave Only",
         "difficulty": 3,
         "levels": [
             "MWspam",
