@@ -14,13 +14,15 @@
             "user": "Exence",
             "link": "https://www.youtube.com/watch?v=SqE3zNeDY0I",
             "percent": 81,
-            "hz": 60
+            "hz": 60,
+            "enjoyment": 10
         },
         {
             "user": "Kageyama",
             "link": "https://www.youtube.com/watch?v=GysppsheQ5s",
             "percent": 18,
-            "hz": 60
+            "hz": 60,
+            "enjoyment": 6
         }
     ]
 }
