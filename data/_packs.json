@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Former Top 1's",
-		"difficulty": 7,
+		"difficulty": 9,
 		"levels": [
             "Archon",
 			"SakupenPringles",
@@ -11,9 +11,10 @@
 	},
     {
         "name": "Pointercrate Knock-Offs",
-        "difficulty": 9,
+        "difficulty": 10,
         "levels": [
             "Archon",
+            "StereoMADness",
             "Bloodworks",
             "Emptiness",
             "Cosmos",
@@ -25,10 +26,13 @@
     },
     {
         "name": "Short Levels",
-        "difficulty": 6,
+        "difficulty": 8,
         "levels": [
             "MWspam",
+            "EndingVer",
+            "NoyanCircles",
             "Brupple",
+            "OrdinaryMatter",
             "MiniMadness",
             "Catastroveil",
             "HELLSDANCE",
