@@ -18,11 +18,11 @@ export default {
                 <form class="options">
                     <div class="check">
                         <input type="checkbox" id="main" value="Main List" v-model="useMainList">
-                        <label for="main">Top 100 levels</label>
+                        <label for="main">Top 10 levels</label>
                     </div>
                     <div class="check">
                         <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
-                        <label for="extended">Levels below top 100</label>
+                        <label for="extended">Levels below top 10</label>
                     </div>
                     <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
                 </form>
@@ -196,14 +196,14 @@ export default {
 
             const list = [];
             if (this.useMainList) {
-                list.push(...fullListMapped.slice(0, 100));
+                list.push(...fullListMapped.slice(0, 10));
             }
             if (this.useExtendedList) {
-                list.push(...fullListMapped.slice(100));
+                list.push(...fullListMapped.slice(10));
             }
 
             // Random 100 levels
-            this.levels = shuffle(list).slice(0, 100);
+            this.levels = shuffle(list).slice(0, 10);
             this.showRemaining = false;
             this.givenUp = false;
             this.progression = [];
