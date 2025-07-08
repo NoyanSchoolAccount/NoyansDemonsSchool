@@ -81,7 +81,7 @@ export default {
                                 Your save data saves to your browser, but you can manually export it to a file as a backup above.
                             </p>
                             <p>
-                                When you're ready to submit your records to be added, click "Submit" and paste the copied text into the <a :href="formUrl" class="director" target="_blank">Google form</a>. Be sure to select the "Grind page" option in the form.
+                                When you're ready to submit your records to be added, click "Submit" and paste the copied text into the <a :href="formUrl" class="director" target="_blank">Google form</a>.
                             </p>
 
                         </div>
@@ -159,7 +159,7 @@ export default {
         list: [],
         allUsers: [],
         loggedIn: null,
-        formUrl: "https://forms.gle/kmesxiUQUEWC5ZuW9",
+        formUrl: "https://docs.google.com/forms/d/e/1FAIpQLScuFx4o27dZxusyAqrTnlEz1ALuY-elL-kKQD3P-TpQjQG_4w/viewform",
         loggingIn: "",
         typedValues: {},
         completed: {
