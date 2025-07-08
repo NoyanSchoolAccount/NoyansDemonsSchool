@@ -25,6 +25,13 @@
         ]
     },
     {
+        "name": "Exence Pack",
+        "difficulty": 5,
+        "levels": [
+            "Brupple",
+            "Brupple2",
+            "Mini Madness",
+    {
         "name": "Short Levels",
         "difficulty": 8,
         "levels": [
