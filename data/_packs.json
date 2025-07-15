@@ -55,5 +55,13 @@
             "MWspam",
             "MiniMadness"
         ]
-    }
+    },
+    {
+        "name": "Legacy List",
+        "difficulty": 6,
+        "levels": [
+            "BladLast",
+            "Stereo MADness",
+            "Brupple",
+            "HELLSDANCE"
 ]
