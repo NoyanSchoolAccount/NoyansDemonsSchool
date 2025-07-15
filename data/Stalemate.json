@@ -1,0 +1,22 @@
+{
+    "id": 187,
+    "name": "Stalemate",
+    "creators": ["Noyan"],
+    "verifier": "Noyan",
+    "verification": "https://youtu.be/nbjUZGnAqfA?t=22",
+    "percentToQualify": 5,
+    "song": "KzX - Stalemate",
+    "songLink": "https://www.youtube.com/watch?v=IAEU6Ay7Xtk&pp=ygUNc3RhbGVtYXRlIGt6eNIHCQnNCQGHKiGM7w%3D%3D",
+    "difficulty": 7,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0,
+            "mobile": false,
+            "enjoyment": 0
+        }
+    ]
+}
