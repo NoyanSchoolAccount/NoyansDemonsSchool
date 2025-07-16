@@ -13,6 +13,7 @@
         "name": "Pointercrate Knock-Offs",
         "difficulty": 10,
         "levels": [
+	    "OnlyBeginning",
             "VeinsOfRuin",
             "Archon",
             "StereoMADness",
@@ -38,6 +39,7 @@
         "name": "Short Levels",
         "difficulty": 8,
         "levels": [
+            "OnlyBeginning",
             "MWspam",
             "NoyanCircles",
             "Brupple",
