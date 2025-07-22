@@ -53,9 +53,11 @@
         ]
     },
     {
-        "name": "Mini Wave Only",
-        "difficulty": 3,
+        "name": "Wave Only",
+        "difficulty": 5,
         "levels": [
+            "HELLSDANCE",
+            "Endingver",
             "MWspam",
             "MiniMadness"
         ]
