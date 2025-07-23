@@ -12,7 +12,7 @@ import Staff from '../components/Sidebar/Staff.js';
 import Errors from '../components/Sidebar/Errors.js';
 
 export default {
-    components: { Spinner, Scroll, Level, TierInfo, CookiesDisclaimer, RecordRules, DifficultyInfo, TemplateDisclaimer, Staff, Errors },
+    components: { Spinner, Scroll, Level, TierInfo, CookiesDisclaimer, RecordRules, TemplateDisclaimer, Staff, Errors },
     template: `
         <main v-if="loading">
             <Spinner></Spinner>
