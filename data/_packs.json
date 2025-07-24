@@ -29,9 +29,8 @@
     },
     {
         "name": "Exence Pack",
-        "difficulty": 6,
+        "difficulty": 3,
         "levels": [
-            "Brupple",
             "Brupple2",
             "MiniMadness"
         ]
