@@ -66,6 +66,8 @@ export default {
                     <Errors :errors="errors" />
                     <TemplateDisclaimer />
                     <hr class="divider">
+                    <Website />
+                    <hr class="divider">
                     <Staff />
                     <hr class="divider">
                     <RecordRules />
