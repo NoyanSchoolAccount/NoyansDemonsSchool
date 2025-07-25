@@ -3,7 +3,9 @@ export default {
         <h3>Website Link</h3>
         <div class="right-text">
             <p>
-            https://noyandemons.ps.fhgdps.com/dashboard
+                <a href="https://noyandemons.ps.fhgdps.com/dashboard" target="_blank" rel="noopener">
+                    Go to Dashboard
+                </a>
             </p>
         </div>
     `
