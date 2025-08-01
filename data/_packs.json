@@ -70,5 +70,19 @@
             "Brupple",
             "HELLSDANCE"
         ]
+    },
+    {
+        "name": "Levels That Took Long To Verify",
+        "difficulty": 10,
+        "levels": [
+            "BladLast",
+            "Bloodworks",
+            "Cosmos",
+            "Dimension",
+            "VeinsOfRuin",
+            "SakupenPringles",
+            "HELLSDANCE",
+            "StereoMADness"
+        ]
     }
 ]
