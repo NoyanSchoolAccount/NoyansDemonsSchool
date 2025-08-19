@@ -11,7 +11,7 @@
 	},
     {
         "name": "Pointercrate Knock-Offs",
-        "difficulty": 10,
+        "difficulty": 11,
         "levels": [
             "EternalEclipse",
 	        "OnlyBeginning",
@@ -86,3 +86,4 @@
         ]
     }
 ]
+
