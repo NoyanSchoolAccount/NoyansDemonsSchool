@@ -5,6 +5,7 @@ import Packs from './pages/Packs.js';
 import ChallengeList from './Archived/ChallengeList.js';
 import ChallengeLeaderboard from './Archived/ChallengeLeaderboard.js';
 import Grind from './pages/Grind.js'
+import FuturePage from './pages/Future.js';
 
 export default [
     // Sets the browser link to access each page
