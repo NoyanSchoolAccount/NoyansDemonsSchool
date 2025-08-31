@@ -25,4 +25,5 @@ export default [
     { path: "/packs/pack/:pack", component: Packs },
 
     { path: "/grind", component: Grind },
+    { path: "/future, component: FuturePage"},
 ];
