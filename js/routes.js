@@ -5,7 +5,6 @@ import Packs from './pages/Packs.js';
 import ChallengeList from './Archived/ChallengeList.js';
 import ChallengeLeaderboard from './Archived/ChallengeLeaderboard.js';
 import Grind from './pages/Grind.js'
-import '../css/pages/future.css';
 
 export default [
     // Sets the browser link to access each page
@@ -26,5 +25,4 @@ export default [
     { path: "/packs/pack/:pack", component: Packs },
 
     { path: "/grind", component: Grind },
-    { path: '/future', component: Future}
 ];
