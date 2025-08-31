@@ -1,0 +1,18 @@
+[
+  {
+    "id": "FutureLevel1",
+    "name": "Celestial Surge",
+    "thumbnail": "https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg",
+    "bestPercent": 67,
+    "verifiers": ["Noyan"],
+    "creators": ["GDPlayer1", "GDPlayer2"]
+  },
+  {
+    "id": "FutureLevel2",
+    "name": "Nebula Core",
+    "thumbnail": "https://img.youtube.com/vi/VIDEO_ID2/mqdefault.jpg",
+    "bestPercent": 45,
+    "verifiers": ["Noyan", "Verifier2"],
+    "creators": ["GDPlayer3"]
+  }
+]

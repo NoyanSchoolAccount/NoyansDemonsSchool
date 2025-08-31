@@ -52,6 +52,9 @@
                 <router-link class="nav__tab" to="/packs">
                     <span class="type-label-lg">Packs</span>
                 </router-link>
+                <router-link> class="nav__tab" to="/future">
+                    <span class="type-label-lg">Future</span>
+                </router-link>
                 <div class="nav__actions" v-if="store.list && store.loaded">
                      <div class="color-picker-wrapper nav__icon">
                         <img :src="store.dark ? '/assets/palette-dark.svg' : '/assets/palette.svg'"/>
