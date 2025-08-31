@@ -1,6 +1,6 @@
 import { embed } from '../util.js';
 
-document.title = "Future Levels";
+document.title = "Noyan's Demons";
 
 export default {
   name: 'FuturePage',
