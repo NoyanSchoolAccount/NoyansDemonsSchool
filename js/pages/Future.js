@@ -17,11 +17,16 @@ export default {
       });
   },
   methods: {
-    getEmbedUrl(video) {
-      if (!video) return '';
-      // Extract YouTube ID from URL
-      const match = video.match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/|v\/))([\w-]{11})/);
-      return match ? `https://www.youtube.com/embed/${match[1]}` : '';
+    getEmbedUrl(videoUrl) {
+      if (!videoUrl) return '';
+      // Extract video ID
+      const idMatch = videoUrl.match(/(?:youtu\.be\/|youtube\.com\/(?:watch\?v=|embed\/|v\/))([\w-]{11})/);
+      const id = idMatch ? idMatch[1] : null;
+      if (!id) return '';
+      // Extract start time (t= or start= in seconds)
+      const timeMatch = videoUrl.match(/[?&](?:t|start)=(\d+)/);
+      const start = timeMatch ? `?start=${timeMatch[1]}` : '';
+      return `https://www.youtube.com/embed/${id}${start}`;
     }
   },
   template: `
