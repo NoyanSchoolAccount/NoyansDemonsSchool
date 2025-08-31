@@ -1,8 +1,10 @@
 [
 	{
 		"name": "Former Top 1's",
-		"difficulty": 9,
+		"difficulty": 11,
 		"levels": [
+            "BloodworksOld",
+            "Bloodworks",
             "Archon",
 			"SakupenPringles",
 			"StereoMADness",
@@ -13,6 +15,8 @@
         "name": "Pointercrate Knock-Offs",
         "difficulty": 11,
         "levels": [
+            "BloodworksOld",
+            "DeepThinking",
             "EternalEclipse",
 	        "OnlyBeginning",
             "VeinsOfRuin",
@@ -73,8 +77,9 @@
     },
     {
         "name": "Levels That Took Long To Verify",
-        "difficulty": 10,
+        "difficulty": 11,
         "levels": [
+            "BloodworksOld",
             "BladLast",
             "Bloodworks",
             "Cosmos",
