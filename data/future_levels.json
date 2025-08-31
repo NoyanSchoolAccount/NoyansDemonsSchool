@@ -4,16 +4,17 @@
     "name": "Deluge",
     "thumbnail": "https://img.youtube.com/vi/VIDEO_ID/mqdefault.jpg",
     "video": "https://www.youtube.com/watch?v=CvGmOqijvlA&pp=ygUORGVsdWdlIFByZXdpZXc%3D",
-    "bestPercent": 67,
+    "bestPercent": 43,
     "verifiers": ["Noyan"],
-    "creators": ["GDPlayer1", "GDPlayer2"]
+    "creators": ["Noyan"]
   },
   {
-    "id": "FutureLevel2",
-    "name": "Nebula Core",
+    "id": "Brupple3",
+    "name": "Brupple 3",
     "thumbnail": "https://img.youtube.com/vi/VIDEO_ID2/mqdefault.jpg",
+    "video": "https://youtu.be/Y60B_EGB15M?t=93",
     "bestPercent": 45,
-    "verifiers": ["Noyan", "Verifier2"],
-    "creators": ["GDPlayer3"]
+    "verifiers": ["Exence", "Noyan"],
+    "creators": ["Exence"]
   }
 ]
