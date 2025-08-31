@@ -26,8 +26,5 @@ export default [
     { path: "/packs/pack/:pack", component: Packs },
 
     { path: "/grind", component: Grind },
-    {
-        path: '/future',
-        component: () => import('./pages/Future.js')
-    }
+    { path: '/future', component: Future}
 ];
