@@ -134,7 +134,7 @@ export function score(rank, difficulty, percent, minPercent, list) {
                 
                 /* Impossible Tier */
                 minScore = 220;
-                maxScore = scoreDivider;
+                maxScore = 230;
                 break;
             default: // If none of the other cases are met, resort to this:
 
@@ -268,6 +268,10 @@ export function packScore(pack) {
 
                 /* Impossible Packs */
                 packscore = 1000;
+                break;
+            case 12:
+                /* Ballistic Packs */
+                packscore = 5000;
                 break;
             default:
 

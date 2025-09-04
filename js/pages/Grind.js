@@ -98,7 +98,7 @@ export default {
                                     <div class="meta">
                                         <div>
                                             <div class="rank-container">
-                                                <p>#{{ level.rank }} - {{["Beginner", "Easy", "Medium", "Hard", "Insane", "Mythical", "Extreme", "Supreme", "Ethereal", "Legendary", "Silent", "Impossible"][level.difficulty]}} layout</p>
+                                                <p>#{{ level.rank }} - {{["Beginner", "Easy", "Medium", "Hard", "Insane", "Mythical", "Extreme", "Supreme", "Ethereal", "Legendary", "Silent", "Impossible", "Ballistic"][level.difficulty]}} layout</p>
                                             </div>
                                             <div class="nong-container">
                                                 <p class="director" @click="hovered = null; hovered = i" v-if="!(completed.levels?.some((completedLevel) => level.path === completedLevel.path))">More info</p>

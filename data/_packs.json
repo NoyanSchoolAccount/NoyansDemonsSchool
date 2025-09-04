@@ -3,6 +3,7 @@
 		"name": "Former Top 1's",
 		"difficulty": 11,
 		"levels": [
+            "DeepThinking",
             "BloodworksOld",
             "Bloodworks",
             "Archon",
@@ -13,8 +14,9 @@
 	},
     {
         "name": "Pointercrate Knock-Offs",
-        "difficulty": 11,
+        "difficulty": 12,
         "levels": [
+            "BladLastUnnerfed",
             "BloodworksOld",
             "DeepThinking",
             "EternalEclipse",
@@ -79,6 +81,7 @@
         "name": "Levels That Took Long To Verify",
         "difficulty": 11,
         "levels": [
+            "BladLastUnnerfed",
             "Brupple3",
             "BloodworksOld",
             "BladLast",

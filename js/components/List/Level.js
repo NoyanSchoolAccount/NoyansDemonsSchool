@@ -38,7 +38,7 @@ export default {
             </div>
             <Packs :packs="level.packs" v-show="!fromPacksPage" v-if="level.packs.length > 1 || level.packs.length !== 0 && level.packs[0].levels" />
             <LevelAuthors :creators="level.creators" :verifier="level.verifier" :enjoyment="level.enjoyment"></LevelAuthors>
-            <h3>Difficulty: {{["Beginner", "Easy", "Medium", "Hard", "Insane", "Mythical", "Extreme", "Supreme", "Ethereal", "Legendary", "Silent", "Impossible"][level.difficulty]}} Demon</h3>
+            <h3>Difficulty: {{["Beginner", "Easy", "Medium", "Hard", "Insane", "Mythical", "Extreme", "Supreme", "Ethereal", "Legendary", "Silent", "Impossible", "Ballistic"][level.difficulty]}} Demon</h3>
             <Verification :verification="level.verification" :showcase="level.showcase || null" />
             <LevelMeta :level="level" :list="list" />
             <Records :records="level.records" :percentToQualify="(level.difficulty>0) ? level.percentToQualify : 100" />
