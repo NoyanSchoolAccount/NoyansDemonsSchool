@@ -35,8 +35,9 @@
     },
     {
         "name": "Exence Pack",
-        "difficulty": 3,
+        "difficulty": 5,
         "levels": [
+            "DarkMatter",
             "Brupple2",
             "MiniMadness"
         ]
