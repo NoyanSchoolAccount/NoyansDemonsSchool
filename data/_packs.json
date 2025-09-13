@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Former Top 1's",
-		"difficulty": 11,
+		"difficulty": 10,
 		"levels": [
             "DeepThinking",
             "BloodworksOld",
@@ -83,6 +83,7 @@
         "name": "Levels That Took Long To Verify",
         "difficulty": 11,
         "levels": [
+            "SakupenPringlesOld",
             "BladLastUnnerfed",
             "Brupple3",
             "BloodworksOld",
