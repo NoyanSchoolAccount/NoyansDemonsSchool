@@ -11,20 +11,12 @@
     "enjoyment": 10,
     "records": [
         {
-            "user": "Exence",
-            "link": "https://medal.tv/tr/games/requested/clips/l5fsHwOHMdl5sTsMA?invite=cr-MSxjeEEsNDQwMTYzMTcw&v=120",
-            "percent": 100,
-            "hz": 60,
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0,
             "mobile": false,
-            "enjoyment": 6
-        },
-        {
-            "user": "Kageyama",
-            "link": "https://www.youtube.com/watch?v=EI05T57DGHA",
-            "percent": 73,
-            "hz": 60,
-            "mobile": false,
-            "enjoyment": 7
+            "enjoyment": 0
         }
     ]
 }
