@@ -9,20 +9,13 @@
     "songLink": "https://www.youtube.com/watch?v=9lNZ_Rnr7Jc",
     "difficulty": 3,
     "enjoyment": 6,
-    "records": [
+    "records": [
         {
-            "user": "Exence",
-            "link": "https://medal.tv/tr/games/requested/clips/l5yjhfkL2GqOtr9pQ?invite=cr-MSxKN1IsNDQwMTYzMTcw&v=35",
-            "percent": 100,
-            "hz": 60,
-            "enjoyment": 10
-        },
-        {
-            "user": "Kageyama",
-            "link": "https://www.youtube.com/watch?v=GysppsheQ5s",
-            "percent": 18,
-            "hz": 60,
-            "enjoyment": 6
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0,
+            "enjoyment": 0
         }
     ]
 }
