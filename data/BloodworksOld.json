@@ -11,12 +11,12 @@
     "enjoyment": 10,
     "records": [
         {
-            "user": "Nobody",
+            "user": "Arda",
             "link": "",
-            "percent": 0,
+            "percent": 9,
             "hz": 0,
             "mobile": true,
-            "enjoyment": 0
+            "enjoyment": 8
         }
     ]
 }
