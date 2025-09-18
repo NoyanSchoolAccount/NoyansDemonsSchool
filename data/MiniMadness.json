@@ -11,12 +11,12 @@
     "enjoyment": 10,
     "records": [
         {
-            "user": "Exence",
-            "link": "https://www.youtube.com/watch?v=LytwX00LWaM",
-            "percent": 100,
-            "hz": 60,
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0,
             "mobile": false,
-            "enjoyment": 10
+            "enjoyment": 0
         }
     ]
 }
