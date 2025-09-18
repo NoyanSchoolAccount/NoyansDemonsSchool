@@ -1,101 +1,11 @@
 [
 	{
-		"name": "Former Top 1's",
-		"difficulty": 10,
+		"name": "E",
+		"difficulty": 1,
 		"levels": [
-            "DeepThinking",
-            "BloodworksOld",
-            "Bloodworks",
-            "Archon",
-			"SakupenPringles",
-			"StereoMADness",
-			"BladLast"
+            "SAMPLELEVEL2"
 		]
-	},
-    {
-        "name": "Pointercrate Knock-Offs",
-        "difficulty": 12,
-        "levels": [
-            "BladLastUnnerfed",
-            "BloodworksOld",
-            "DeepThinking",
-            "EternalEclipse",
-	        "OnlyBeginning",
-            "VeinsOfRuin",
-            "Archon",
-            "StereoMADness",
-            "Bloodworks",
-            "Emptiness",
-            "Cosmos",
-            "Dimension",
-            "SilentStep",
-            "YesJokes",
-            "BladLast"
-        ]
-    },
-    {
-        "name": "Exence Pack",
-        "difficulty": 6,
-        "levels": [
-            "Brupple",
-            "DarkMatter",
-            "Brupple2",
-            "MiniMadness"
-        ]
-    },
-    {
-        "name": "Short Levels",
-        "difficulty": 8,
-        "levels": [
-            "OnlyBeginning",
-            "MWspam",
-            "NoyanCircles",
-            "Brupple",
-            "OrdinaryMatter",
-            "MiniMadness",
-            "Catastroveil",
-            "HELLSDANCE",
-            "Brupple2",
-            "Endingver"
-        ]
-    },
-    {
-        "name": "Wave Only",
-        "difficulty": 5,
-        "levels": [
-            "HELLSDANCE",
-            "Endingver",
-            "MWspam",
-            "MiniMadness"
-        ]
-    },
-    {
-        "name": "Legacy List",
-        "difficulty": 6,
-        "levels": [
-            "BladLast",
-            "StereoMADness",
-            "Brupple",
-            "HELLSDANCE"
-        ]
-    },
-    {
-        "name": "Levels That Took Long To Verify",
-        "difficulty": 11,
-        "levels": [
-            "SakupenPringlesOld",
-            "BladLastUnnerfed",
-            "Brupple3",
-            "BloodworksOld",
-            "BladLast",
-            "Bloodworks",
-            "Cosmos",
-            "Dimension",
-            "VeinsOfRuin",
-            "SakupenPringles",
-            "HELLSDANCE",
-            "StereoMADness"
-        ]
-    }
+	}
 ]
+
 
